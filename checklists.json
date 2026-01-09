@@ -1,0 +1,117 @@
+[
+  {
+    "status_id": 16,
+    "items": [
+      {
+        "id": 1,
+        "text": "Комментарий в карточке",
+        "checked": false
+      },
+      {
+        "id": 2,
+        "text": "Референсы для АСО(Если есть)",
+        "checked": false
+      },
+      {
+        "id": 3,
+        "text": "Скрины Приложения",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "status_id": 19,
+    "items": [
+      {
+        "id": 1,
+        "text": "Ссылки",
+        "checked": false
+      },
+      {
+        "id": 2,
+        "text": "Виртуалка(если нужна)",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "status_id": 20,
+    "items": [
+      {
+        "id": 1,
+        "text": "Залил билд",
+        "checked": false
+      },
+      {
+        "id": 2,
+        "text": "Белое АСО(скрины)",
+        "checked": false
+      },
+      {
+        "id": 3,
+        "text": "Описание",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "status_id": 23,
+    "items": [
+      {
+        "id": 1,
+        "text": "Appsflyer",
+        "checked": false
+      },
+      {
+        "id": 2,
+        "text": "OneLink",
+        "checked": false
+      },
+      {
+        "id": 3,
+        "text": "Firebase(пуши настроены?)",
+        "checked": false
+      },
+      {
+        "id": 4,
+        "text": "firebase project id + info.plist(файл)",
+        "checked": false
+      },
+      {
+        "id": 5,
+        "text": "Виртуалка(если нужна)",
+        "checked": false
+      }
+    ]
+  },
+  {
+    "status_id": 24,
+    "items": [
+      {
+        "id": 1,
+        "text": "Новая иконка",
+        "checked": false
+      },
+      {
+        "id": 2,
+        "text": "Серое АСО",
+        "checked": false
+      },
+      {
+        "id": 3,
+        "text": "Пуши работают",
+        "checked": false
+      },
+      {
+        "id": 4,
+        "text": "заглушка работает",
+        "checked": false
+      },
+      {
+        "id": 5,
+        "text": "серая запускается",
+        "checked": false
+      }
+    ]
+  }
+]

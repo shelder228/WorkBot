@@ -1,0 +1,18 @@
+[
+  {
+    "user_id": 474385173,
+    "username": "qwerty17388",
+    "first_name": "Лёша",
+    "role": "Лёша",
+    "notifications_enabled": true,
+    "notification_interval": 5
+  },
+  {
+    "user_id": 997905199,
+    "username": "talent_l",
+    "first_name": "Алексей",
+    "role": "user",
+    "notifications_enabled": true,
+    "notification_interval": 30
+  }
+]
